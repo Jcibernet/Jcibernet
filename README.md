@@ -4,7 +4,7 @@
 backend systems, and tooling for AI coding agents.
 
 - Currently building developer tooling for AI agents and data-intensive backends
-- Go, Python, TypeScript, FastAPI, PostgreSQL, Playwright
+- Go, Python, TypeScript, FastAPI, PostgreSQL
 - Interested in auth systems, agentic workflows, and geospatial/satellite data
 
 **Featured work**
